@@ -1,0 +1,415 @@
+.container {
+  width: 1200px;
+  background: #322332;
+  padding: 20px;
+  align-items: center;
+  margin: 20px auto;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 12px;
+  font-size: 15px;
+}
+a {
+  color: white;
+}
+
+.container-telesales-content[_ngcontent-mug-c127] {
+  display: flex;
+}
+.container-telesales[_ngcontent-mug-c127] {
+  background-color: #f7f7f7;
+  padding: 1rem 0 1rem 1rem;
+}
+.container-telesales-content[_ngcontent-mug-c127] a {
+    white-space: nowrap;
+}
+
+.Body---Link[_ngcontent-mug-c127], .container-telesales-content[_ngcontent-mug-c127] a {
+    font-weight: var(--text-link-font-weight);
+    font-family: var(--text-link-font-family);
+    color: var(--text-link-color);
+    font-size: 16px;
+    font-size: 1rem;
+}
+.rich-content-styles a:not(.button) {
+    color: var(--tertiary-color);
+    text-decoration: underline;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+body p, .Body p, html p {
+    font-stretch: var(--paragraph-font-stretch);
+    font-style: var(--paragraph-font-style);
+    letter-spacing: var(--paragraph-letter-spacing);
+    margin: var(--paragraph-margin);
+}
+html, body, .Body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+style attribute {
+    text-align: center;
+}
+<style>
+body, .Body {
+    font-family: var(--body-font-family);
+    font-size: var(--body-font-size);
+    line-height: var(--body-line-height);
+    font-weight: var(--body-font-weight);
+}
+body, .Body {
+    font-family: var(--body-font-family);
+    font-size: var(--body-font-size);
+    line-height: var(--body-line-height);
+    font-weight: var(--body-font-weight);
+}
+body, .Body {
+    font-family: VMCircularWhisperPTT,Arial,Helvetica,"sans-serif";
+    font-size: 16px;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 300;
+}
+body, .Body, html {
+    margin: var(--body-margin);
+    padding: var(--body-padding);
+    height: var(--body-height);
+    font-family: var(--body-font-family)!important;
+    font-size: var(--body-font-size);
+    font-weight: var(--body-font-weight);
+    line-height: var(--body-line-height);
+    color: var(--body-color);
+}
+body {
+    font-family: VMCircularWhisperPTT,Arial,Helvetica,"sans-serif";
+    font-size: 16px;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 300;
+}
+body, html {
+    margin: var(--body-margin);
+    padding: var(--body-padding);
+    height: var(--body-height);
+    font-family: var(--body-font-family)!important;
+    font-size: var(--body-font-size);
+    font-weight: var(--body-font-weight);
+    line-height: var(--body-line-height);
+    color: var(--body-color);
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+style attribute {
+    --primary-color: #ed0000;
+    --secondary-color: #322332;
+    --tertiary-color: #5f2878;
+    --primary-shadow: #bb0a00;
+    --secondary-shadow: #160f16;
+    --tertiary-shadow: #3b164c;
+    --action-primary: #ed0000;
+    --action-primary-shadow: #bb0a00;
+    --action-secondary: #322332;
+    --action-secondary-shadow: #160f16;
+    --action-tertiary: #5f2878;
+    --action-tertiary-shadow: #3b164c;
+    --product-card-border-gradient-color-a: #ed0000;
+    --product-card-border-gradient-color-b: #0019a5;
+    --product-card-border-gradient-color-c: #191693;
+    --product-card-border-black-friday-color: #333333;
+    --color-form-error-border-color: #bb0a00;
+    --color-form-error-color: #bb0a00;
+    --color-message-background-color: #0019a5;
+    --color-message-border-color: #0019a5;
+    --action-button-border-radius: 6.25rem;
+    --text-h1-font-family: VMCircularWhisperPTT, Arial, Helvetica, sans-serif;
+    --text-h1-font-weight: 300;
+    --text-h1-font-size: 1.875rem;
+    --text-h1-line-height: 1.28;
+    --text-h1-letter-spacing: normal;
+    --text-h1-font-family-md: VMCircularWhisperPTT, Arial, Helvetica, sans-serif;
+    --text-h1-font-weight-md: 300;
+    --text-h1-font-size-md: 2.25rem;
+    --text-h1-line-height-md: 1.27;
+    --text-h1-letter-spacing-md: normal;
+    --text-h1-secondary-line-height: 1.28;
+    --text-h2-font-family: VMCircularWhisperPTT, Arial, Helvetica, sans-serif;
+    --text-h2-font-weight: 300;
+    --text-h2-font-size: 1.5rem;
+    --text-h2-line-height: 1.25;
+    --text-h2-letter-spacing: normal;
+    --text-h2-font-family-md: VMCircularWhisperPTT, Arial, Helvetica, sans-serif;
+    --text-h2-font-weight-md: 300;
+    --text-h2-font-size-md: 1.75rem;
+    --text-h2-line-height-md: 1.29;
+    --text-h2-letter-spacing-md: normal;
+    --text-h2-secondary-font-family: VMCircularWhisperPTT, Arial, Helvetica, sans-serif;
+    --text-h2-secondary-font-size: 1.5rem;
+    --text-h2-secondary-line-height: 1.25;
+    --text-h2-secondary-font-size-md: 1.75rem;
+    --text-h2-tertiary-font-family: VMCircularWhisperPTT, Arial, Helvetica, sans-serif;
+    --text-h2-tertiary-font-size: 1.5rem;
+    --text-h2-tertiary-font-size-md: 1.75rem;
+    --text-h2-quaternary-font-family: VMCircularChatPTT, Arial, Helvetica, sans-serif;
+Show All Properties (134 more)
+}
+<style>
+:root {
+    --primary-color: #ed0000;
+    --secondary-color: #322332;
+    --tertiary-color: #5f2878;
+    --primary-shadow: #bb0a00;
+    --secondary-shadow: #160f16;
+    --tertiary-shadow: #3b164c;
+    --action-primary: #ed0000;
+    --action-primary-shadow: #bb0a00;
+    --action-secondary: #322332;
+    --action-secondary-shadow: #160f16;
+    --action-tertiary: #5f2878;
+    --action-tertiary-shadow: #3b164c;
+    --action-disabled: #dbdbdb;
+    --action-disabled-shadow: #9a9a9a;
+    --onyx: #000000;
+    --option-border: #dbdbdb;
+    --option-border-highlight: #0019a5;
+    --option-background: #ececec;
+    --footer-background-color: #322332;
+    --footer-link-color: #ffffff;
+    --product-card-border-gradient-color-a: #ed0000;
+    --product-card-border-gradient-color-b: #0019a5;
+    --product-card-border-gradient-color-c: #191693;
+    --product-card-flare-text-color: #ffffff;
+    --product-card-border-black-friday-color: #333333;
+    --body-color: #333333;
+    --body-secondary-color: #333333;
+    --list-color: #333333;
+    --text-link-color: #5f2878;
+    --text-link-hover-color: #333333;
+    --color-banner-background-color: #ffffff;
+    --color-banner-border-color: #5f2878;
+    --color-banner-floating-background-color: #5f2878;
+    --color-banner-floating-color: #ffffff;
+    --color-banner-description-font-color: #322332;
+    --footer-background-color: #322332;
+    --color-form-error-border-color: #bb0a00;
+    --color-form-error-color: #bb0a00;
+    --color-message-background-color: #0019a5;
+    --color-message-border-color: #0019a5;
+    --color-calendar-border-color: #5f2878;
+    --color-toggle-background-color: #5f2878;
+    --color-toggle-border-color: #5f2878;
+    --color-toggle-hover-background-color: #3b164c;
+    --color-toggle-hover-border-color: #3b164c;
+    --product-card-timer-color: #bb0a00;
+    --action-button-border-radius: 6.25rem;
+    --text-h1-font-family: VMCircularWhisperPTT, Arial, Helvetica, sans-serif;
+    --text-h1-font-weight: 300;
+    --text-h1-font-size: 1.875rem;
+Show All Properties (141 more)
+}
+:root {
+    --primary-color: #ed0000;
+    --secondary-color: #322332;
+    --tertiary-color: #5f2878;
+    --primary-shadow: #bb0a00;
+    --secondary-shadow: #160f16;
+    --tertiary-shadow: #3b164c;
+    --action-primary: #ed0000;
+    --action-primary-shadow: #bb0a00;
+    --action-secondary: #322332;
+    --action-secondary-shadow: #160f16;
+    --action-tertiary: #5f2878;
+    --action-tertiary-shadow: #3b164c;
+    --action-disabled: #dbdbdb;
+    --action-disabled-shadow: #9a9a9a;
+    --onyx: #000000;
+    --option-border: #dbdbdb;
+    --option-border-highlight: #0019a5;
+    --option-background: #ececec;
+    --footer-background-color: #322332;
+    --footer-link-color: #ffffff;
+    --product-card-border-gradient-color-a: #ed0000;
+    --product-card-border-gradient-color-b: #0019a5;
+    --product-card-border-gradient-color-c: #191693;
+    --product-card-flare-text-color: #ffffff;
+    --product-card-border-black-friday-color: #333333;
+    --body-color: #333333;
+    --body-secondary-color: #333333;
+    --list-color: #333333;
+    --text-link-color: #5f2878;
+    --text-link-hover-color: #333333;
+    --color-banner-background-color: #ffffff;
+    --color-banner-border-color: #5f2878;
+    --color-banner-floating-background-color: #5f2878;
+    --color-banner-floating-color: #ffffff;
+    --color-banner-description-font-color: #322332;
+    --footer-background-color: #322332;
+    --color-form-error-border-color: #bb0a00;
+    --color-form-error-color: #bb0a00;
+    --color-message-background-color: #0019a5;
+    --color-message-border-color: #0019a5;
+    --color-calendar-border-color: #5f2878;
+    --color-toggle-background-color: #5f2878;
+    --color-toggle-border-color: #5f2878;
+    --color-toggle-hover-background-color: #3b164c;
+    --color-toggle-hover-border-color: #3b164c;
+    --product-card-timer-color: #bb0a00;
+    --action-button-border-radius: 6.25rem;
+    --text-h1-font-family: VMCircularWhisperPTT, Arial, Helvetica, sans-serif;
+    --text-h1-font-weight: 300;
+    --text-h1-font-size: 1.875rem;
+Show All Properties (141 more)
+}
+:root {
+    --footer-background-light-color: #3d3543;
+}
+:root {
+    --primary-color: #ed0000;
+    --secondary-color: #322332;
+    --tertiary-color: #5f2878;
+    --primary-shadow: #bb0a00;
+    --secondary-shadow: #160f16;
+    --tertiary-shadow: #3b164c;
+    --action-primary: #ed0000;
+    --action-primary-shadow: #bb0a00;
+    --action-secondary: #322332;
+    --action-secondary-shadow: #160f16;
+    --action-tertiary: #5f2878;
+    --action-tertiary-shadow: #3b164c;
+    --action-disabled: #dbdbdb;
+    --action-disabled-shadow: #9a9a9a;
+    --onyx: #000000;
+    --option-border: #dbdbdb;
+    --option-border-highlight: #0019a5;
+    --option-background: #ececec;
+    --footer-background-color: #322332;
+    --footer-link-color: #ffffff;
+    --product-card-border-gradient-color-a: #ed0000;
+    --product-card-border-gradient-color-b: #0019a5;
+    --product-card-border-gradient-color-c: #191693;
+    --product-card-flare-text-color: #ffffff;
+    --product-card-border-black-friday-color: #333333;
+    --body-color: #333333;
+    --body-secondary-color: #333333;
+    --list-color: #333333;
+    --text-link-color: #5f2878;
+    --text-link-hover-color: #333333;
+    --color-banner-background-color: #ffffff;
+    --color-banner-border-color: #5f2878;
+    --color-banner-floating-background-color: #5f2878;
+    --color-banner-floating-color: #ffffff;
+    --color-banner-description-font-color: #322332;
+    --footer-background-color: #322332;
+    --color-form-error-border-color: #bb0a00;
+    --color-form-error-color: #bb0a00;
+    --color-message-background-color: #0019a5;
+    --color-message-border-color: #0019a5;
+    --color-calendar-border-color: #5f2878;
+    --color-toggle-background-color: #5f2878;
+    --color-toggle-border-color: #5f2878;
+    --color-toggle-hover-background-color: #3b164c;
+    --color-toggle-hover-border-color: #3b164c;
+    --product-card-timer-color: #bb0a00;
+    --action-button-border-radius: 6.25rem;
+    --text-h1-font-family: VMCircularWhisperPTT, Arial, Helvetica, sans-serif;
+    --text-h1-font-weight: 300;
+    --text-h1-font-size: 1.875rem;
+Show All Properties (141 more)
+}
+:root {
+    --footer-background-light-color: #3d3543;
+}
+:root {
+    --primary-color: #ed0000;
+    --secondary-color: #322332;
+    --tertiary-color: #5f2878;
+    --primary-shadow: #bb0a00;
+    --secondary-shadow: #160f16;
+    --tertiary-shadow: #3b164c;
+    --action-primary: #ed0000;
+    --action-primary-shadow: #bb0a00;
+    --action-secondary: #322332;
+    --action-secondary-shadow: #160f16;
+    --action-tertiary: #5f2878;
+    --action-tertiary-shadow: #3b164c;
+    --action-disabled: #dbdbdb;
+    --action-disabled-shadow: #9a9a9a;
+    --onyx: #000000;
+    --option-border: #dbdbdb;
+    --option-border-highlight: #0019a5;
+    --option-background: #ececec;
+    --footer-background-color: #322332;
+    --footer-link-color: #ffffff;
+    --product-card-border-gradient-color-a: #ed0000;
+    --product-card-border-gradient-color-b: #0019a5;
+    --product-card-border-gradient-color-c: #191693;
+    --product-card-flare-text-color: #ffffff;
+    --product-card-border-black-friday-color: #333333;
+    --body-color: #333333;
+    --body-secondary-color: #333333;
+    --list-color: #333333;
+    --text-link-color: #5f2878;
+    --text-link-hover-color: #333333;
+    --color-banner-background-color: #ffffff;
+    --color-banner-border-color: #5f2878;
+    --color-banner-floating-background-color: #5f2878;
+    --color-banner-floating-color: #ffffff;
+    --color-banner-description-font-color: #322332;
+    --footer-background-color: #322332;
+    --color-form-error-border-color: #bb0a00;
+    --color-form-error-color: #bb0a00;
+    --color-message-background-color: #0019a5;
+    --color-message-border-color: #0019a5;
+    --color-calendar-border-color: #5f2878;
+    --color-toggle-background-color: #5f2878;
+    --color-toggle-border-color: #5f2878;
+    --color-toggle-hover-background-color: #3b164c;
+    --color-toggle-hover-border-color: #3b164c;
+    --product-card-timer-color: #bb0a00;
+    --action-button-border-radius: 6.25rem;
+    --text-h1-font-family: VMCircularWhisperPTT, Arial, Helvetica, sans-serif;
+    --text-h1-font-weight: 300;
+    --text-h1-font-size: 1.875rem;
+Show All Properties (141 more)
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
